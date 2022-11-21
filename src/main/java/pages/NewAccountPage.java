@@ -91,6 +91,7 @@ public class NewAccountPage {
 	
 	
 	public boolean accountPageValidation() {
+		
 		return Validation.isDisplayed();
 					
 	}
